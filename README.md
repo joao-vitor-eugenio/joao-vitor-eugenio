@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [João Eugênio](https://github.com/Blazer25) !!
+</h2>
 
-<!--
-**Blazer25/Blazer25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Graduated as a computer technician from Etec Euro Albino de Souza
+- 🤔 Studying JavaScript, NodeJS, VueJS and MongoDB
+- 🌱 Learning a little every day is the most important thing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+## Contact With Me 
+[![Gmail Badge](https://img.shields.io/badge/-joaovitor.eugenio15@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovitor.eugenio15@gmail.com)](mailto:joaovitor.eugenio15@gmail.com)
+
+<hr/>
