@@ -13,6 +13,8 @@
 ## Contact With Me 
 [![Gmail Badge](https://img.shields.io/badge/-joaovitor.eugenio15@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovitor.eugenio15@gmail.com)](mailto:joaovitor.eugenio15@gmail.com)
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://br.linkedin.com/in/joao-vitor-eugenio" />
+<!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://br.linkedin.com/in/joao-vitor-eugenio" /> -->
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white:https://br.linkedin.com/in/joao-vitor-eugenio)](https://br.linkedin.com/in/joao-vitor-eugenio)
+
 
 <hr/>
