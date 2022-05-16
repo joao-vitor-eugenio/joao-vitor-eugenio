@@ -15,7 +15,7 @@
 <a href="https://github.com/Blazer25">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blazer25&theme=dracula&hide_langs_below=1" />
 </a>
-
+<br/>
 <a href="https://github.com/Blazer25">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blazer25&theme=dracula&show_icons=true" />
 </a>
