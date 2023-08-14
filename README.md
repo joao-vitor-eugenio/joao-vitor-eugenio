@@ -19,7 +19,7 @@
 <hr/>
 
 # Tecnologias
-Tecnologias que utilizo no dia-a-dia de trabalho e projetos pessoais:
+Tecnologias que utilizo no dia-a-dia:
 
 ## Frontend
 
