@@ -5,8 +5,7 @@
 
 ## Sobre Mim
 - 🎓 Formado como técnico em informática integrado ao ensino médio e técnico em informática para internet pela Etec Euro Albino de Souza.
-- 🎓 Cursando 3° semestre de Análise e Desenvolvimento de Sistemas pela Fatec de Mogi Mirim - Arthur de Azevedo.
-- 🤔 Estudando ReactJS, TypeScript.
+- 🎓 Cursando 4° semestre de Análise e Desenvolvimento de Sistemas pela Fatec de Mogi Mirim - Arthur de Azevedo.
 - 🌱 Aprender um pouco todos os dias, é a coisa mais importante!
 
 <hr/>
